@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @Crispygazelle<br>👀 I’m interested in python, Flask, Backend development and Linux<br>🌱 I’m currently learning Raspberry pi 5<br>📫 How to reach me ... https://www.linkedin.com/in/harsh-hingnekar-b90770255?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+👋 Hi, I’m @Crispygazelle<br>👀 I’m interested in python, Flask, Backend development and Linux<br>🌱 I’m currently building a real-time telemetry analysis platform with scalable cloud-native infrastructure.<br>📫 How to reach me ... https://www.linkedin.com/in/harsh-hingnekar-b90770255/
 
 
 ## 🌐 Socials:
